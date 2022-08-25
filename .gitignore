@@ -1,0 +1,4 @@
+.DS_Store
+*.ts
+*.js.map
+tsconfig.json
